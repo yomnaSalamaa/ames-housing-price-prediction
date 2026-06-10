@@ -1,4 +1,4 @@
-# Ames Housing Price Prediction
+# Ames Housing Price Prediction 🏡
 
 End-to-end ML project on the Ames Housing dataset — covering exploratory data analysis, predictive modeling with three algorithms, and SHAP-based model explainability.
 
