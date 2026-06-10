@@ -69,4 +69,4 @@ Then open either notebook in Jupyter or VS Code. Both notebooks are self-contain
 
 ## Dataset
 
-Ames Housing dataset (900-row sample). Place `housing_data_900.csv` in the root directory before running the notebooks.
+Ames Housing dataset (900-row sample) included in the repository. 
